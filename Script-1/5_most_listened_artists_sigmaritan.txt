@@ -1,0 +1,165 @@
+
+----------alex_clefos---------
+
+artistName
+Disturbed                  107
+Avenged Sevenfold           16
+Drowning Pool               14
+Five Finger Death Punch     14
+Fivefold                    14
+Nine Lashes                 14
+Name: artistName, dtype: int64
+
+----------andreea_covalevschi---------
+
+artistName
+PJ Harvey      86
+Nina Simone    71
+Gorillaz       59
+Deftones       52
+Sepultura      51
+Anthrax        50
+Name: artistName, dtype: int64
+
+----------arina_coroliuc---------
+
+artistName
+Alternosfera      52
+Diana Arbenina    47
+The Motans        40
+Irina Rimes       30
+Måneskin          28
+Ed Sheeran        27
+Name: artistName, dtype: int64
+
+----------denis_smocvin---------
+
+artistName
+Noize MC                  41
+Bring Me The Horizon      37
+Avicii                    29
+Eminem                    26
+Kanye West                26
+Thirty Seconds To Mars    26
+Name: artistName, dtype: int64
+
+----------eduard_balamatiuc---------
+
+artistName
+NF                 37
+Grigory Leps       33
+Billie Eilish      30
+MORGENSHTERN       27
+HammAli & Navai    22
+SLAVA MARLOW       18
+Name: artistName, dtype: int64
+
+----------elena_timbur---------
+
+artistName
+Taylor Swift             63
+Linkin Park              52
+Johann Sebastian Bach    46
+Arctic Monkeys           36
+Eminem                   30
+50 Cent                  28
+Name: artistName, dtype: int64
+
+----------irina_tiora---------
+
+artistName
+Sonya Belousova        66
+Coldplay               53
+EDEN                   36
+Avicii                 34
+Daughter               28
+Of Monsters and Men    27
+Name: artistName, dtype: int64
+
+----------lavinia_spinu---------
+
+artistName
+Glass Animals    3
+Pentakill        3
+Apashe           2
+K/DA             2
+Max Brhon        2
+Aero Chord       1
+Name: artistName, dtype: int64
+
+----------marius_purici---------
+
+artistName
+Eminem               36
+Hans Zimmer          13
+Cheloo               11
+AC/DC                10
+Klaus Badelt         10
+MiyaGi & Endspiel    10
+Name: artistName, dtype: int64
+
+----------marius_sclearuc---------
+
+artistName
+Parazitii                          49
+ДДТ                                46
+Rammstein                          36
+Am Fost La Munte Și Mi-a Plăcut    28
+Alternosfera                       27
+Mashina Vremeni                    25
+Name: artistName, dtype: int64
+
+----------nicolae_dubenco---------
+
+artistName
+Big Baby Tape    25
+MORGENSHTERN     21
+By Индия         20
+Borgore          17
+Holy Mob         16
+The Limba        16
+Name: artistName, dtype: int64
+
+----------nicolae_gherman---------
+
+artistName
+Oxxxymiron      85
+Kanye West      74
+BROCKHAMPTON    73
+Logic           57
+J. Cole         55
+Alternosfera    54
+Name: artistName, dtype: int64
+
+----------vasile_papaluta---------
+
+artistName
+Fearless Motivation      346
+NEFFEX                    76
+Panic! At The Disco       69
+Green Day                 52
+Red Hot Chili Peppers     51
+One Direction             50
+Name: artistName, dtype: int64
+
+----------vlada_pulbere---------
+
+artistName
+Miracle Tones        71
+The Neighbourhood    32
+Lofi Fruits Music    26
+Måneskin             21
+Arctic Monkeys       20
+Melanie Martinez     20
+Name: artistName, dtype: int64
+
+----------vladimir_stojoc---------
+
+artistName
+Rich Brian           44
+Twenty One Pilots    39
+Post Malone          38
+The Weeknd           35
+Killstation          32
+Mac Miller           27
+Name: artistName, dtype: int64

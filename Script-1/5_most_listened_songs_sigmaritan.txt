@@ -1,0 +1,150 @@
+
+----------alex_clefos---------
+
+song
+Disturbed Torn        480
+Disturbed Haunted     447
+Disturbed Stricken    383
+Disturbed Deify       380
+Disturbed Warrior     314
+Name: song, dtype: int64
+
+----------andreea_covalevschi---------
+
+song
+Anthrax Got The Time                       108
+Deftones Change (In the House of Flies)    101
+The Offspring Original Prankster           101
+Deftones Knife Prty                         98
+Unknown Artist Unknown Track                96
+Name: song, dtype: int64
+
+----------arina_coroliuc---------
+
+song
+Måneskin I WANNA BE YOUR SLAVE      103
+Irina Rimes Cosmos                   88
+Alec Benjamin Let Me Down Slowly     86
+Måneskin Beggin'                     85
+Imagine Dragons Bad Liar             83
+Name: song, dtype: int64
+
+----------denis_smocvin---------
+
+song
+Avicii Dear Boy                  22
+Against The Current weapon       21
+Avicii Hope There's Someone      21
+Avicii Lay Me Down               18
+Avicii SOS (feat. Aloe Blacc)    18
+Name: song, dtype: int64
+
+----------eduard_balamatiuc---------
+
+song
+Topic Breaking Me                      186
+Billie Eilish Happier Than Ever        133
+Duncan Laurence Arcade                 131
+HammAli & Navai Птичка                 119
+МОТ Не Бруклин - DJ Prezzplay Remix    102
+Name: song, dtype: int64
+
+----------elena_timbur---------
+
+song
+Måneskin MAMMAMIA         62
+Måneskin CORALINE         60
+Måneskin ZITTI E BUONI    54
+Måneskin FOR YOUR LOVE    51
+Måneskin Torna a casa     47
+Name: song, dtype: int64
+
+----------irina_tiora---------
+
+song
+Go_A SHUM                           79
+Mimi Gilbert Society's a Mansion    52
+Vasudeva Stockmar                   48
+Jaguar Sun Red                      44
+Lo-Fang 88                          42
+Name: song, dtype: int64
+
+----------lavinia_spinu---------
+
+song
+Pentakill Deathfire Grasp     3
+Veorra Run                    3
+Bali Bandits Don't Talk       2
+Caravan Palace Lone Digger    2
+DJ Blyatman Cyka Blyat        2
+Name: song, dtype: int64
+
+----------marius_purici---------
+
+song
+KALEO Way down We Go                                                    49
+Lil Nas X INDUSTRY BABY (feat. Jack Harlow)                             46
+Selena Gomez Back To You - From 13 Reasons Why – Season 2 Soundtrack    44
+Kansas Carry on Wayward Son                                             40
+Coolio Gangsta's Paradise                                               31
+Name: song, dtype: int64
+
+----------marius_sclearuc---------
+
+song
+Zemlyane Трава у дома                         324
+Nothing But Thieves Take This Lonely Heart    315
+MONO Imperfect Things                         293
+Electroforez Мёртв внутри                     269
+Molchat Doma Судно (Борис Рижий)              228
+Name: song, dtype: int64
+
+----------nicolae_dubenco---------
+
+song
+By Индия вечеринка                                  39
+DJ Yung Vamp Life's A Movie                         34
+Gidayyat Сомбреро - DVNIAR Remix, Second Version    34
+MORGENSHTERN 12                                     31
+By Индия я не помню                                 29
+Name: song, dtype: int64
+
+----------nicolae_gherman---------
+
+song
+Oxxxymiron Пантеллерия                     129
+Cage The Elephant Back Against The Wall    127
+Oxxxymiron Дрейдл                          124
+Isaiah Rashad Headshots (4r Da Locals)     119
+Oxxxymiron Агент                           117
+Name: song, dtype: int64
+
+----------vasile_papaluta---------
+
+song
+Bella Poarch Build a Bitch                1385
+SLAVA MARLOW Снова я напиваюсь            1011
+Panic! At The Disco King of the Clouds     932
+Dua Lipa Levitating (feat. DaBaby)         927
+Ed Sheeran Bad Habits                      905
+Name: song, dtype: int64
+
+----------vlada_pulbere---------
+
+song
+Glass Animals Heat Waves                     98
+Lund Broken                                  94
+Paloma Faith Only Love Can Hurt Like This    93
+League of Legends Phoenix                    92
+Måneskin Lasciami stare                      90
+Name: song, dtype: int64
+
+----------vladimir_stojoc---------
+
+song
+Rich Brian Cold          214
+88rising History         163
+Rich Brian Dat $tick     161
+Rich Brian Drive Safe    156
+NF When I Grow Up        148
+Name: song, dtype: int64
